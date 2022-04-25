@@ -17,12 +17,12 @@ an example of the functional hack
 ### Getting Started
 * Follow the pictures (bonus points if you DM me with the PCB)
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
-<img src="thingy.png" width="128"/>
+<img src="thingy.png"/>
 BOOM ANOTHER ONE
-<img src="thing2.png" width="128"/>
+<img src="thing2.png"/>
 NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
-<img src="Schematics.svg" width="128"/>
+<img src="Schematics.svg"/>
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
-<img src="PCB.png" width="128"/>
+<img src="PCB.png"/>
 another one
-<img src="3d PCB.png" width="128"/>
+<img src="3d PCB.png"/>
