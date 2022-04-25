@@ -21,9 +21,9 @@ This is the easy part, you just need to copy and paste the code I placed in the 
 * Arduino Code:
 Sorry, this is the hard part in advance. In Short just take the raw data from your TV signal and replace the last four characters of my raw data with yours
 <img src="data vs User.PNG"/>
-When your run the Tranceiver script and click your remote at it you'll get a code, the last 4 represent the user while the first 4 represent the data being sent. It'll look like this in the serial monitor
+When your run the Tranceiver script and click your remote at it you'll get a code, the last 4 represent the user while the first 4 represent the data being sent. It'll look like this in the serial monitor...that is your code, use it to change mine.
 <img src="Raw data.PNG"/>
-Each roku is different so a little fiddling is needed.
+Each roku is different so a little fiddling may be required.
 
 #### The Hard
 * Follow the pictures (bonus points if you DM me with the PCB)
