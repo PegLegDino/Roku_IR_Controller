@@ -36,7 +36,7 @@ When your run the <a href="Project Files\Receiver Code\Receiver Code.ino" target
 Each roku is different so a little fiddling may be required.
 
 #### The Hard
-* Follow the pictures (bonus points if you DM me with the PCB)
+* Follow the pictures (bonus points if you DM me a picture of the PCB)
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
 <img src="thingy.png"/>
 BOOM ANOTHER ONE (Update, I meant Transmitter)
