@@ -9,7 +9,9 @@ I made this at 1AM so if none of this makes sense, I would be glad to answer que
 # Quick_Setup_Guide
 ### Software_Requirements
 * Processing IDE
+* Install CP5 through processing
 * Arduino IDE
+* Install IRremote through arduino
 ### Hardware_Requirements
 * Arduino Uno or any AVR microcontroller with at least 5kb EEPROM (5 kilo bytes storage so probably no TinyAVR series chips...Drop a comment if you want optimization idk)
 * IR Trasmitter LED ~3v
