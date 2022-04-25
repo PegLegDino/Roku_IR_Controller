@@ -2,7 +2,9 @@
 
 This is a through hack into the Roku Infrared Remote Controlled System.
 This software will provide you with both a template for sending and reciving IR signals as well as 
-an example of the functional hack 
+an example of the functional hack
+
+I made this at 1AM so if none of this makes sense, I would be glad to answer questions you have in the issues tab...
 
 # Quick_Setup_Guide
 ### Software_Requirements
