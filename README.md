@@ -19,8 +19,8 @@ an example of the functional hack
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
 ![mew](thingy.png)
 BOOM ANOTHER ONE
-![BOOM ANOTHER ONE](http://url/to/img.png)
+![BOOM ANOTHER ONE](thing 2.png)
 NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
-![NOW JUST THE ENGINEERS...if you get this you deserve a cookie](http://url/to/img.png)
+![NOW JUST THE ENGINEERS...if you get this you deserve a cookie](Schematics.svg)
 *BONUS PCB DESIGN*
 ![*BONUS PCB DESIGN*](http://url/to/img.png)
