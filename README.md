@@ -24,4 +24,4 @@ NOW JUST THE ENGINEERS...if you get this you deserve a cookie
 ![NOW JUST THE ENGINEERS...if you get this you deserve a cookie](Schematics.svg)
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
 ![*BONUS PCB DESIGN*](PCB.PNG)
-![*BONUS PCB DESIGN*](3D PCB.PNG)
+![](3D PCB.PNG)
