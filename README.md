@@ -19,10 +19,10 @@ an example of the functional hack
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
 ![mew](thingy.png)
 BOOM ANOTHER ONE
-![BOOM ANOTHER ONE](thing 2.png)
+![test](thing 2.png)
 NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
-![NOW JUST THE ENGINEERS...if you get this you deserve a cookie](Schematics.svg)
+![test](Schematics.svg)
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
-![*BONUS PCB DESIGN*](PCB.PNG)
+![test](PCB.PNG)
 another one
-![extra](3D PCB.PNG)
+![test](3D PCB.PNG)
