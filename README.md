@@ -21,7 +21,7 @@ I made this at 1AM so if none of this makes sense, I would be glad to answer que
 ### Getting Started
 #### The Code
 * Processing:
-This is the easy part, you just need to open the processing<a href="Project Files/Processing Code/Arduino GUI.pde " target="_blank">here</a> ... it's just that easy, if you want to know how it works refer to this ControlP5 reference doc [https://sojamo.de/libraries/archive/controlP5-0-3-14/reference/index.htm] and this processing thing [https://processing.org/reference/libraries/serial/index.html] ya NERD
+This is the easy part, you just need to open the processing <a href="Project Files/Processing Code/Arduino GUI.pde " target="_blank">here</a> ... it's just that easy, if you want to know how it works refer to this ControlP5 reference doc [https://sojamo.de/libraries/archive/controlP5-0-3-14/reference/index.htm] and this processing thing [https://processing.org/reference/libraries/serial/index.html] ya NERD
 * Arduino Code:
 Sorry in advance, this is the hard part. 
 
