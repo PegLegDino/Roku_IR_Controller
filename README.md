@@ -15,6 +15,17 @@ an example of the functional hack
 * Resistor (25ohms-330ohms) *Lower resitance == far; High Resistance == not far
 * Your hardware your sexy beast *rawr* xD
 ### Getting Started
+#### The Code
+* Processing:
+This is the easy part, you just need to copy and paste the code I placed in the repository... it's just that easy, if you want to know how it works refer to this ControlP5 reference doc [https://sojamo.de/libraries/archive/controlP5-0-3-14/reference/index.htm] and this processing thing [https://processing.org/reference/libraries/serial/index.html] ya NERD
+* Arduino Code:
+Sorry, this is the hard part in advance. In Short just take the raw data from your TV signal and replace the last four characters of my raw data with yours
+<img src="data vs User.PNG"/>
+When your run the Tranceiver script and click your remote at it you'll get a code, the last 4 represent the user while the first 4 represent the data being sent. It'll look like this in the serial monitor
+<img src="Raw data.PNG"/>
+Each roku is different so a little fiddling is needed.
+
+#### The Hard
 * Follow the pictures (bonus points if you DM me with the PCB)
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
 <img src="thingy.png"/>
