@@ -39,7 +39,7 @@ Each roku is different so a little fiddling may be required.
 * Follow the pictures (bonus points if you DM me with the PCB)
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
 <img src="thingy.png"/>
-BOOM ANOTHER ONE
+BOOM ANOTHER ONE (Update, I meant Transmitter)
 <img src="thing 2.png"/>
 NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
 <img src="Schematics.svg"/>
