@@ -23,6 +23,6 @@ BOOM ANOTHER ONE
 NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
 <img src="Schematics.svg"/>
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
-<img src="PCB.png" width="400"/>
+<img src="PCB.PNG" width="400"/>
 another one
-<img src="3d PCB.png" width="400"/>
+<img src="3D PCB.PNG" width="400"/>
