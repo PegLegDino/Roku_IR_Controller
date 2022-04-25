@@ -26,7 +26,9 @@ This is the easy part, you just need to open the processing <a href="Project Fil
 Sorry in advance, this is the hard part. 
 
 In Short just take the raw data from your remote signal and replace the last four characters of my user data with yours in this <a href="Project Files/Manual_Control/Manual_Control.ino" target="_blank">script</a> 
+
 <img src="data vs User.PNG"/>
+
 When your run the <a href="Project Files\Receiver Code\Receiver Code.ino" target="_blank">reciever script</a> and click your remote at it you'll get a code, the last 4 represent the user while the first 4 represent the data being sent. It'll look like this in the serial monitor...that is your code, use it to change mine.
 
 <img src="Raw data.PNG"/>
@@ -51,3 +53,5 @@ I don't make changes I make genius
 *Added first stuff 4/25/2022
 
 *Revised that stuff 4/25/2022
+
+*Remebered I left out a lot of stuff 4/25/2022 (but later)
