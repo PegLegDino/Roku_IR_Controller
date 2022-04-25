@@ -16,7 +16,11 @@ an example of the functional hack
 * Your hardware your sexy beast *rawr* xD
 ### Getting Started
 * Follow the pictures (bonus points if you DM me with the PCB)
-![OOOOOOOOOH LOOK A SCHEMATIC...*wow*](thingy.png)
-![BOOM ANOTHER ONE](http://url/to/img.png) 
+OOOOOOOOOH LOOK A SCHEMATIC...*wow*
+![mew](thingy.png)
+BOOM ANOTHER ONE
+![BOOM ANOTHER ONE](http://url/to/img.png)
+NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
 ![NOW JUST THE ENGINEERS...if you get this you deserve a cookie](http://url/to/img.png)
+*BONUS PCB DESIGN*
 ![*BONUS PCB DESIGN*](http://url/to/img.png)
