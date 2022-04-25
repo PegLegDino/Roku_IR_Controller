@@ -46,7 +46,7 @@ NOW JUST THE ENGINEERS...if you get this you deserve a cookie
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
 <img src="PCB.PNG"/>
 
-### ChangeLog
+# ChangeLog
 
 I don't make changes I make genius
 
