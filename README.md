@@ -19,7 +19,7 @@ an example of the functional hack
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
 <img src="thingy.png"/>
 BOOM ANOTHER ONE
-<img src="thing2.png" width="400"/>
+<img src="thing 2.png" width="400"/>
 NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
 <img src="Schematics.svg"/>
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
