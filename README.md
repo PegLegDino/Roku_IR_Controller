@@ -22,5 +22,6 @@ BOOM ANOTHER ONE
 ![BOOM ANOTHER ONE](thing 2.png)
 NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
 ![NOW JUST THE ENGINEERS...if you get this you deserve a cookie](Schematics.svg)
-*BONUS PCB DESIGN*
-![*BONUS PCB DESIGN*](http://url/to/img.png)
+*BONUS PCB DESIGN* (For those whomst wish to be extra)
+![*BONUS PCB DESIGN*](PCB.PNG)
+![*BONUS PCB DESIGN*](3D PCB.PNG)
