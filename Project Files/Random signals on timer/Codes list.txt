@@ -1,0 +1,103 @@
+    // OK button (2 32-bit hex codes with raw data)
+    Serial.println(F("Send NECRaw 0xD52AC2EA"));
+    IrSender.sendNECRaw(0xD52AC2EA, sRepeats);
+    Serial.println(F("Send NECRaw 0x55AAC2EA"));
+    IrSender.sendNECRaw(0x55AAC2EA, sRepeats);
+    Serial.println(F("OK"));
+    delay(1000);
+
+    // UP button (2 32-bit hex codes with raw data)
+    Serial.println(F("Send NECRaw 0xE619C2EA"));
+    IrSender.sendNECRaw(0xE619C2EA, sRepeats);
+    Serial.println(F("Send NECRaw 0x6699C2EA"));
+    IrSender.sendNECRaw(0x6699C2EA, sRepeats);
+    Serial.println(F("UP"));
+    delay(1000);
+
+    // DOWN button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0x6699C2EA"));
+    IrSender.sendNECRaw(0xCC33C2EA, sRepeats);
+    Serial.println(F("DOWN"));
+
+    // LEFT button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0xE11EC2EA"));
+    IrSender.sendNECRaw(0xE11EC2EA, sRepeats);
+    Serial.println(F("LEFT"));
+    delay(1000);
+
+    // RIGHT button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0xD22DC2EA"));
+    IrSender.sendNECRaw(0xD22DC2EA, sRepeats);
+    Serial.println(F("RIGHT"));
+
+    // HOME button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0xFC03C2EA"));
+    IrSender.sendNECRaw(0xFC03C2EA, sRepeats);
+    Serial.println(F("HOME"));
+    delay(1000);
+
+    // BACK button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0x9966C2EA"));
+    IrSender.sendNECRaw(0x9966C2EA, sRepeats);
+    Serial.println(F("BACK"));
+    delay(1000);
+
+    // PAUSE/UNPAUSE button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0xB34CC2EA"));
+    IrSender.sendNECRaw(0xB34CC2EA, sRepeats);
+    Serial.println(F("PAUSE/UNPAUSE"));
+    delay(1000);
+
+    // NETFLIX button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0xB44BC2EA"));
+    IrSender.sendNECRaw(0xB44BC2EA, sRepeats);
+    Serial.println(F("NETFLIX"));
+    delay(1000);
+
+    // HULU button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0xB24DC2EA"));
+    IrSender.sendNECRaw(0xB24DC2EA, sRepeats);
+    Serial.println(F("HULU"));
+    delay(1000);
+
+    // DISNEY button (2 32-bit hex codes with raw data;
+    Serial.println(F("Send NECRaw 0xEE11C2EA"));
+    IrSender.sendNECRaw(0xEE11C2EA, sRepeats);
+    Serial.println(F("DISNEY"));
+    delay(1000);
+
+
+    //Experimental stuff
+
+    // This code opens vudu tv and media
+    //0xF00F
+    Serial.println(F("Send NECRaw 0xF00FC2EA"));
+    IrSender.sendNECRaw(0xF00FC2EA, sRepeats);
+
+    // This code opens Sling TV
+    //0xDF20C2EA
+    Serial.println(F("Send NECRaw 0xDF20C2EA"));
+    IrSender.sendNECRaw(0xDF20C2EA, sRepeats);
+
+    // This code opens Amazon Prime
+    //0x6F90C2EA
+    Serial.println(F("Send NECRaw 0xF00FC2EA"));
+    IrSender.sendNECRaw(0x6F90C2EA, sRepeats);
+
+    //Experimental stuff
+    // This code is OFF? button
+    //0xE817C2EA
+    Serial.println(F("Send NECRaw 0xE817C2EA"));
+    IrSender.sendNECRaw(0xE817C2EA, sRepeats);
+
+    // This code is a SLEEP? button
+    //0x9D62C2EA
+    Serial.println(F("Send NECRaw 0x9D62C2EA"));
+    IrSender.sendNECRaw(0x9D62C2EA, sRepeats);
+    Serial.println(F("Send NECRaw 0x1DE2C2EA"));
+    IrSender.sendNECRaw(0x1DE2C2EA, sRepeats);
+
+    Main Roku:
+    C2EA
+    Faiths TV:
+    C7EA
