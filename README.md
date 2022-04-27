@@ -31,6 +31,7 @@ Each roku is different so a little fiddling may be required.
 
 #### The Hard
 * Follow the pictures (bonus points if you DM me with the PCB)
+
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
 <img src="thingy.png"/>
 BOOM ANOTHER ONE
@@ -39,8 +40,6 @@ NOW JUST THE ENGINEERS...if you get this you deserve a cookie
 <img src="Schematics.svg"/>
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
 <img src="PCB.PNG"/>
-another one
-<img src="3D PCB.PNG"/>
 ### ChangeLog
 
 I don't make changes I make genius
