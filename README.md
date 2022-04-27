@@ -37,11 +37,12 @@ In Short just take the raw data from your remote signal and replace the last fou
 
 #### The Hard
 * Follow the pictures (bonus points if you DM me a picture of the PCB)
+
 OOOOOOOOOH LOOK A SCHEMATIC...*wow*
 <img src="thingy.png"/>
 BOOM ANOTHER ONE (Update, I meant Transmitter)
 <img src="thing 2.png"/>
-NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
+NOW JUST THE ENGINEERS...if you get this you deserve a cookie it's just an atmega328p serial programming circuit 
 <img src="Schematics.svg"/>
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
 <img src="PCB.PNG"/>
