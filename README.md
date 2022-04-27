@@ -39,7 +39,7 @@ BOOM ANOTHER ONE
 NOW JUST THE ENGINEERS...if you get this you deserve a cookie 
 <img src="Schematics.svg"/>
 *BONUS PCB DESIGN* (For those whomst wish to be extra)
-<img src="PCB.PNG"/>
+<img src="PCB.PNG"/> 
 ### ChangeLog
 
 I don't make changes I make genius
